@@ -2,7 +2,7 @@ import { Component } from "react";
 
 import "./index.css";
 
-condition = {
+const condition = {
   success: "SUCCESS",
   loading: "lOADER",
   failure: "FAILURE",
