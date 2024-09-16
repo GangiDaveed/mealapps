@@ -1,0 +1,30 @@
+.home-bg {
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+}
+
+.meal-card {
+  widthh: 300px;
+  background-color: whitesmoke;
+  border-radius: 12px;
+  box-shadow: 1px 2px 1px 2px rgb(220, 231, 220);
+  margin: 12px;
+  box-sizing: "border-box";
+  padding: 22px;
+}
+
+.image-card {
+  width: 77%;
+  height: 300px;
+}
+.recipe-name {
+  color: green;
+  font-size: 23px;
+  font-weight: 600;
+  font-family: "Roboto";
+  margin-bottom: 12px;
+}
